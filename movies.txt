@@ -6,7 +6,11 @@ movie1
 movie2
 
 
+language oriented movies
 
+hindi
+english
+telugu
 
 
 thanks
