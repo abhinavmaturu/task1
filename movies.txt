@@ -6,11 +6,19 @@ movie1
 movie2
 
 
-language oriented movies
 
+language oriented movies
 hindi
 english
 telugu
+
+
+south indian language movies
+telugu
+tamil
+malyalam
+kannda
+
 
 
 thanks
